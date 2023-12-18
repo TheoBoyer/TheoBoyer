@@ -21,3 +21,5 @@ This was the quickest path to superhuman GO machines because master games contai
 But one year later, Deepmind introduced AlphaZero. AlphaZero was trained from scratch without any human knowledge just via self-play, and ultimately obliterated AlphaGO. As you might guess, AlphaZero is on the far left of the spectrum.
 
 Therefore my two cents is that the language stack will win in the short to mid-term whereas the information stack might win in the long run.
+
+[](https://github.com/TheoBoyer/TheoBoyer/blob/main/assets/human_bias_spectrum.png?raw=true)
