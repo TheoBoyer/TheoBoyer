@@ -10,8 +10,8 @@ I believe that open source is extremely important in AI and more generally in so
 * 🟪 [Avoid computing higher temperatures on no_speech segments](https://github.com/openai/whisper/pull/1279): In Whisper, the voice activity detection token is computed before decoding the actual transcribed sentence. I realized that in the code, the sentence was computed multiple times with different temperatures unnecessarily in the case where the segment was silent.
 
 # Thoughts
-* [The human bias spectrum]([https://www.linkedin.com/feed/update/urn:li:activity:7140387311304740864/](https://www.linkedin.com/posts/th%C3%A9o-boyer_the-human-bias-spectrum-today-we-can-safely-activity-7140387311304740864-xiBW/))
-* [L’humanité a signé son arrêt de mort]([https://www.linkedin.com/feed/update/urn:li:activity:7135309335697514498/](https://www.linkedin.com/posts/th%C3%A9o-boyer_groundbreaking-new-book-makes-ai-author-a-activity-7135309335697514498-4sMi/))
+* [The human bias spectrum](https://www.linkedin.com/posts/th%C3%A9o-boyer_the-human-bias-spectrum-today-we-can-safely-activity-7140387311304740864-xiBW/)
+* [L’humanité a signé son arrêt de mort](https://www.linkedin.com/posts/th%C3%A9o-boyer_groundbreaking-new-book-makes-ai-author-a-activity-7135309335697514498-4sMi/)
 * [Il faut arrêter de parler de "l'Intelligence Artificielle"](https://www.linkedin.com/posts/th%C3%A9o-boyer_ia-intelligenceartificielle-deeplearning-activity-7115316457093124096-Lzp9/)
 * [Le data drift, ou L'arbre qui cache la forêt](https://www.linkedin.com/posts/th%C3%A9o-boyer_99-of-data-scientists-get-this-dataset-wrong-activity-7110246849625632769-DIft/)
 
