@@ -22,4 +22,4 @@ But one year later, Deepmind introduced AlphaZero. AlphaZero was trained from sc
 
 Therefore my two cents is that the language stack will win in the short to mid-term whereas the information stack might win in the long run.
 
-[](https://github.com/TheoBoyer/TheoBoyer/blob/main/assets/human_bias_spectrum.png?raw=true)
+![](https://github.com/TheoBoyer/TheoBoyer/blob/main/assets/human_bias_spectrum.png?raw=true)
