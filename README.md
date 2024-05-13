@@ -1,6 +1,6 @@
 ### Théo Boyer
 
-23yo deep learning engineer cooking the anti-entropy machine.
+24yo deep learning engineer cooking the anti-entropy machine.
 
 # Open source contributions
 I believe that open source is extremely important in AI and more generally in software.
